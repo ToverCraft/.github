@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hey! 👋
+We are ToverCraft a minecraft server that builds ToverLand in minecraft. We currently dont have public repositories.
 
-<!--
+## We make our plugins with
+- 👨‍💻 Java
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact
+- [Website](https://tovercraft.com)
+- [@TovercraftEU](https://twitter.com/tovercrafteu) on Twitter
+- [@tovercrafteu](https://instagram.com/tovercrafteu) on Instagram
+- [Discord](https://discord.com/invite/6QUaet6u39) Join our discord

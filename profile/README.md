@@ -6,6 +6,6 @@ We are ToverCraft a minecraft server that builds ToverLand in minecraft. We curr
 
 ## Contact
 - [Website](https://tovercraft.com)
-- [@TovercraftEU](https://twitter.com/tovercrafteu) on Twitter
+- [@TovercraftEU](https://twitter.com/tovercrafteu) on X (Twitter)
 - [@tovercrafteu](https://instagram.com/tovercrafteu) on Instagram
 - [Discord](https://discord.com/invite/6QUaet6u39) Join our discord
